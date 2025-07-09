@@ -3,6 +3,12 @@
 An end-to-end data analysis project combining **Power BI visualization** and **MySQL queries** to extract business insights from pizza sales data. This dashboard helps businesses monitor KPIs, identify trends, and make data-driven decisions.
 
 ---
+📷 Dashboard Preview
+
+<img width="608" alt="Screenshot 2025-07-09 213446" src="https://github.com/user-attachments/assets/371af1ff-a72c-4114-87a9-e68789f6ffd1" />
+
+
+<img width="607" alt="Screenshot 2025-07-09 213517" src="https://github.com/user-attachments/assets/3f909152-64c4-40bc-84c9-d5dd29247be1" />
 
 ## 📦 Project Contents
 
@@ -87,12 +93,6 @@ GROUP BY pizza_name
 ORDER BY Total_Quantity_Sold ASC
 LIMIT 5;
 
-📷 Dashboard Preview
-
-<img width="608" alt="Screenshot 2025-07-09 213446" src="https://github.com/user-attachments/assets/371af1ff-a72c-4114-87a9-e68789f6ffd1" />
-
-
-<img width="607" alt="Screenshot 2025-07-09 213517" src="https://github.com/user-attachments/assets/3f909152-64c4-40bc-84c9-d5dd29247be1" />
 
 
 🚀 How to Run
